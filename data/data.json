@@ -133,6 +133,39 @@
       "format": "1:1"
     },
     {
+      "filename": "Nour_03",
+      "title":  "03",
+      "author": "Nour",
+      "filters": {
+        "color": ["lila", "black", "green", "blue", "white"],
+        "shapes": ["circle", "rectangle"],
+        "category": ["pattern", "noise", "buffel"]
+      },
+      "format": "1:1"
+    },
+    {
+      "filename": "Nour_04",
+      "title":  "04",
+      "author": "Nour",
+      "filters": {
+        "color": ["lila", "black", "green", "blue", "white"],
+        "shapes": ["circle", "rectangle"],
+        "category": ["pattern", "noise", "grid", "random"]
+      },
+      "format": "1:1"
+    },
+       {
+      "filename": "Nour_05",
+      "title":  "05",
+      "author": "Nour",
+      "filters": {
+        "color": ["white", "black"],
+        "shapes": ["circle", "rectangle"],
+        "category": ["pattern", "noise", "grid", "random"]
+      },
+      "format": "1:1"
+    },
+    {
       "filename": "Ulrike_DistanceField",
       "title":  "Distance Field",
       "author": "Ulrike",
@@ -275,6 +308,7 @@
       },
       "format": "1:1"
     }
+    
   ],
   "students" : [
     {
@@ -305,5 +339,9 @@
       "name": "Dain Park",
       "link": "https://github.com/DainPark-web"
     }
+    {
+      "name": "Nour Al Safadi",
+      "link": "https://www.instagram.com/nour_saf/"
+    },
   ]
 }
